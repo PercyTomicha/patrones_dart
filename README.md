@@ -1,4 +1,2 @@
-# Para ejecutar el Programa
-```
-dart run main.dart
-```
+# Lista de Patrones de Diseño en Dart
+* [**Factory o Factory Method**](https://github.com/PercyTomicha/patrones_dart/tree/main/factory_method)
