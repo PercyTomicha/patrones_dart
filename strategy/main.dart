@@ -5,7 +5,7 @@ main() {
   //Comportamiento por defecto 
   Context context = Context(); 
   context.execute();
-  //Cambiar el comportamiento 
+  //Cambiando el comportamiento 
   context.setStrategy( ConcreteStrategyB() ); 
   context.execute();
 }
