@@ -1,4 +1,4 @@
-// Interface Componente
+// Abstract Componente
 class Componente
 {
 	String? _nombre;
