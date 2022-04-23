@@ -1,10 +1,10 @@
 // Abstract Componente
 class Componente
 {
-	String? _nombre;
+	String? nombre;
 	Componente (String nombre)
 	{
-		_nombre = nombre;
+		this.nombre = nombre;
 	}
 	void agregar(Componente c) { }
 	void eliminar(Componente c) { }
