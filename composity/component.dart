@@ -1,3 +1,4 @@
+// Interface Componente
 class Componente
 {
 	String? _nombre;
