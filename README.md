@@ -5,3 +5,4 @@
 * [**Prototype**](https://github.com/PercyTomicha/patrones_dart/tree/main/prototype)
 * [**State**](https://github.com/PercyTomicha/patrones_dart/tree/main/state)
 * [**Strategy**](https://github.com/PercyTomicha/patrones_dart/tree/main/strategy)
+* [**Template**](https://github.com/PercyTomicha/patrones_dart/tree/main/template)
