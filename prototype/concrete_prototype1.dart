@@ -21,4 +21,18 @@ class ConcretePrototype1 implements Prototype {
   ConcretePrototype1 clone() {
     return ConcretePrototype1.fromSource(this);
   }
+
+  @override
+  int get hashCode {
+    if (_hashCode != null) return _hashCode!;
+    _hashCode = DateTime.now().millisecondsSinceEpoch;
+    return _hashCode!;
+  }
+
+  @override
+  bool operator ==(dynamic other) {
+    if (other is! ConcretePrototype1) return false;
+    ConcretePrototype1 rect = other;
+    return rect.isClone && rect.hashCode == hashCode;
+  }
 }
