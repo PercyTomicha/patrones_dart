@@ -4,3 +4,4 @@
 * [**Memento**](https://github.com/PercyTomicha/patrones_dart/tree/main/memento)
 * [**Prototype**](https://github.com/PercyTomicha/patrones_dart/tree/main/prototype)
 * [**State**](https://github.com/PercyTomicha/patrones_dart/tree/main/state)
+* [**Strategy**](https://github.com/PercyTomicha/patrones_dart/tree/main/strategy)
